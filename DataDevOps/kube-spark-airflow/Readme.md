@@ -9,6 +9,6 @@ This assignment evaluates your ability to deploy Apache Spark and Apache Airflow
 
 #
 Modules:
-- [Exercise 1](Exercise-1.md)
-- [Excersice 2](Exercise-2.md)
+- [Exercise 1](Task-1.md)
+- [Exercise 2](Task-2.md)
 
